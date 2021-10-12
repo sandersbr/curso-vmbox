@@ -1,0 +1,103 @@
+VMBox
+
+O que é VMBox?
+
+O VMBox é Virtual Machine Box(Caixa de Maquina Virtual).
+
+
+O que é VirtualBox?
+
+O VirtualBox é um programa em português de virtualização da Oracle que permite instalar e executar diferentes sistemas operacionais em um único computador sem complicações.
+
+Fonte: https://www.techtudo.com.br/tudo-sobre/virtualbox.html
+
+
+Para que serve uma VM?
+
+Máquina virtual (VM) é um ambiente de uso criado por software que simula um computador ou servidor físico dentro de outro computador, proporcionando ao usuário a mesma experiencia que usar um equipamento real.
+
+
+Requisito para a instalação e uso:
+
+Não há configuração mínima para sua instalação;
+Em seu computador é preciso estar habilitado o recurso Virtualização;
+Baixar o instalador compatível com o sistema operacional de seu computador;
+Baixar os sistemas operacionais que serão instalados em suas maquina virtuais;
+Instalar o programa VMBox;
+Criar sua maquina virtual;
+Ligar sua maquina virtual e instalar seu sistema operacional;
+
+
+Como posso saber se a tecnologia de virtualização está habilitada no meu computador?
+
+Alguns sistemas têm a tecnologia de virtualização habilitado por padrão, se o sistema tiver essa tecnologia, use as etapas a seguir para confirmar se a tecnologia de virtualização está disponível em seu sistema:
+Pressione Ctrl + Alt + Del;
+Selecione Gerenciador de tarefas;
+Clique na guia Desempenho;
+Clique CPU;
+O status será listado sob o gráfico e dirá "Virtualização: Habilitado" se esse recurso está ativado.
+
+O slide a seguir há uma imagem como exemplo.
+
+Fonte: https://community.acer.com/pt/kb/articles/104-como-saber-se-a-tecnologia-de-virtualizacao-esta-habilitada-em-computadores-acer
+
+
+Como habilitar virtualização no BIOS (Basic Input/Output System)?
+
+Siga estas instruções para habilitar a virtualização.
+Desligue o computador e ligue-o novamente. 
+Acesse o SETUP ou BIOS em seu computador antes da inicialização do sistema operacional. Isso dependerá do fabricante da placa mãe de seu computador. Veja. 
+Ao acessar a BIOS, navegue até a aba configuração. Pressione a tecla de seta para a direita até System Configuration (Configuração do Sistema), selecione Virtualization Technology (Tecnologia de Virtualização) e pressione a tecla Enter.
+Mude de Disabled para Enabled (Habilitado) e pressione a tecla Enter.
+Salve as alterações e saia. Observação: Normalmente F10 Save and Exit.
+O computador reiniciará automaticamente. Se não for possível habilitar a Tecnologia de Virtualização no BIOS, verifique se o BIOS precisa ser atualizado.
+A tecnologia de virtualização pode estar exibida com a silga Vtx.
+
+
+Como baixar e instalar o VMBox?
+
+Siga estas instruções para ....
+Acesso o site https://www.virtualbox.org/wiki/Downloads
+...
+
+A tecnologia de virtualização pode estar exibida com a silga Vtx.
+
+
+Como baixar o sistema operacional Windows?
+
+Siga estas instruções para ....
+...
+
+A tecnologia de virtualização pode estar exibida com a silga Vtx.
+
+
+Como baixar o sistema operacional Linux, distribuição Ubuntu?
+
+Siga estas instruções para ....
+...
+
+A tecnologia de virtualização pode estar exibida com a silga Vtx.
+
+
+Como criar uma maquina virtual?
+
+Siga estas instruções para ....
+...
+
+A tecnologia de virtualização pode estar exibida com a silga Vtx.
+
+
+Como criar inciar e instalar o Windows em uma maquina virtual?
+
+Siga estas instruções para ....
+...
+
+A tecnologia de virtualização pode estar exibida com a silga Vtx.
+
+
+Como criar inciar e instalar o Linux Ubuntu em uma maquina virtual?
+
+Siga estas instruções para ....
+...
+
+A tecnologia de virtualização pode estar exibida com a silga Vtx.
