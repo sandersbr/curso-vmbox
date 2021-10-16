@@ -10,12 +10,14 @@ VMBox
 • Como habilitar virtualização no BIOS (Basic Input/Output System)?
 • Como baixar o VMBox?
 • Como instalar o VMBox?
+• Como baixar sistemas alguns sistemas operacionais?
 
 
 --------------
 O que é VMBox?
 
 O VMBox é Virtual Machine Box(Caixa de Maquina Virtual).
+
 
 -------------------
 O que é VirtualBox?
@@ -24,10 +26,12 @@ O VirtualBox é um programa em português de virtualização da Oracle que permi
 
 Fonte: https://www.techtudo.com.br/tudo-sobre/virtualbox.html
 
+
 ----------------------
 Para que serve uma VM?
 
 Máquina virtual (VM) é um ambiente de uso criado por software que simula um computador ou servidor físico dentro de outro computador, proporcionando ao usuário a mesma experiencia que usar um equipamento real.
+
 
 ----------------------------------
 Requisito para a instalação e uso:
@@ -39,6 +43,7 @@ Requisito para a instalação e uso:
 - Instalar o programa VMBox;
 - Criar sua maquina virtual;
 - Ligar sua maquina virtual e instalar seu sistema operacional;
+
 
 ------------------------------------------------------------------------------------
 Como posso saber se a tecnologia de virtualização está habilitada no meu computador?
@@ -56,33 +61,44 @@ URL da image: https://theradioativo.com.br/wp-content/uploads/2019/08/gerenciado
 
 Fonte: https://community.acer.com/pt/kb/articles/104-como-saber-se-a-tecnologia-de-virtualizacao-esta-habilitada-em-computadores-acer
 
+
 -----------------------------------------------------------------
 Como habilitar virtualização no BIOS (Basic Input/Output System)?
 
 Siga as instruções a seguir para habilitar a virtualização:
+
 - Desligue o computador e ligue-o novamente. 
 - Acesse o SETUP ou BIOS em seu computador antes da inicialização do sistema operacional. 
-  Observação:  Isso dependerá do fabricante da placa mãe de seu computador. 
-                 Exemplo:  
-                 Acer: F2 ou Del;
-                 Asus: F2 ou Del;
-                 Dell: F2 ou F12;
-                 HP: ESC ou F10;
-                 Lenovo: F1, F2 ou Fn + F2;
-                 Samsung: F2;
-                 Sony: F1, F2 ou F3; 
+
+  Observação:  
+  Isso dependerá do fabricante da placa mãe de seu computador. 
+    Exemplo:  
+      Acer: F2 ou Del;
+      Asus: F2 ou Del;
+      Dell: F2 ou F12;
+      HP: ESC ou F10;
+      Lenovo: F1, F2 ou Fn + F2;
+      Samsung: F2;
+      Sony: F1, F2 ou F3; 
+      
 - Ao acessar a BIOS, navegue até a aba configuração. Pressione a tecla de seta para a direita até System Configuration (Configuração do Sistema), selecione Virtualization - Technology (Tecnologia de Virtualização) e pressione a tecla Enter. Mude de Disabled para Enabled (Habilitado) e pressione a tecla Enter.
   Observação: A tecnologia de virtualização pode estar exibida com a silga Vtx.
 - Salve as alterações e saia. 
-  Observação: Normalmente F10 Save and Exit.
+
+  Observação:
+  Normalmente F10 Save and Exit.
   
 - O computador reiniciará automaticamente. 
-  Observação: Se não for possível habilitar a Tecnologia de Virtualização no BIOS, verifique se o BIOS precisa ser atualizado.
-              
+
+  Observação: 
+  Se não for possível habilitar a Tecnologia de Virtualização no BIOS, verifique se o BIOS precisa ser atualizado.
+
+
 --------------------
 Como baixar o VMBox?
 
 Siga as instruções a seguir para baixar o virtualbox:
+
 - Acesse o site oficial do virtual box (https://www.virtualbox.org/);
 - Localize no menu a opção downloads;
 - Localize os pacotes de instalaçãodo virtual box (VirtualBox 0.0.00 platform packages) e clique na opção compativel com o sistema operacional de seu computador;
@@ -91,9 +107,10 @@ Siga as instruções a seguir para baixar o virtualbox:
   - Linux distributions   <--- pacote para linux
   - Solaris hosts         <--- pacote para solaris
   - Solaris 11 IPS hosts  <--- pacote para solaris
-- Ao clicar em uma das opções o download ocorrerá em seu computador e dependendo das confirgurações de seu navegador de internet ocorrerá de forma automatica para a pasta downloads em seu computador.
+- Ao clicar em uma das opções o download ocorrerá em seu computador e dependendo das confirgurações de seu navegador de internet ocorrerá de forma automática para a pasta downloads em seu computador.
 
 O programa VMBox está baixado!
+
 
 ----------------------
 Como instalar o VMBox?
@@ -116,26 +133,40 @@ Siga as instruções a seguir para instalar o VMBox:
 
 O programa virtual box está instalado!
 
-----------------------
-Como instalar o VMBox?
+
+--------------------------------------------------
+Como baixar sistemas alguns sistemas operacionais?
 
 
+-------------------------------------------------------------
+Como baixar o sistema operacional Linux, distribuição Ubuntu?
+
+Siga as instruções a seguir para instalar o sistema operacional Linux, distribuição Ubuntu:
+
+- Acesse o site oficial do linux ubuntu (https://ubuntu.com/);
+- Localize no menu a opção downloads;
+  Deverão ser exibidas as versões de ubuntu para desktop e laptop, servidor, internet das coisas e núvem. 
+  Selecione a opção "Ubuntu Desktop"
+  
+  Observação: 
+  A versão LTS (Long Term Support) que em português significa suporte de termo ou prazo longo é uma variação de um software cujo principal objetivo é proporcionar estabilidade por longos períodos aos usuários'
+ 
+- Ao clicar no "botão download" ocorrerá o download em seu computador e dependendo das confirgurações de seu navegador de internet ocorrerá de forma automática para a pasta downloads em seu computador.
+  
+  Requisitos de sistema Ubuntu 20.04.3 LTS recomendados: 
+  - Processador dual core de 2 GHz ou melhor 4 GB de memória do sistema;
+  - 25 GB de espaço livre no disco rígido;
+
+O programa Linux Ubuntu está baixado!
+
+
+------------------------------------------
 Como baixar o sistema operacional Windows?
 
 Siga estas instruções para ....
 ...
 
-A tecnologia de virtualização pode estar exibida com a silga Vtx.
-
-
-Como baixar o sistema operacional Linux, distribuição Ubuntu?
-
-Siga estas instruções para ....
-...
-
-A tecnologia de virtualização pode estar exibida com a silga Vtx.
-
-
+A tecnologia de virtualização pode estar exibida com a silga Vtx.--------------------------------
 Como criar uma maquina virtual?
 
 Siga estas instruções para ....
