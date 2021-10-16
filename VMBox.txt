@@ -138,10 +138,10 @@ O programa virtual box está instalado!
 Como baixar sistemas alguns sistemas operacionais?
 
 
--------------------------------------------------------------
-Como baixar o sistema operacional Linux, distribuição Ubuntu?
+----------------------------------------------------------------------------
+Como baixar o arquivo ISO do sistema operacional Linux, distribuição Ubuntu?
 
-Siga as instruções a seguir para instalar o sistema operacional Linux, distribuição Ubuntu:
+Siga as instruções a seguir para baixar o arquivo ISO do sistema operacional Linux, distribuição Ubuntu:
 
 - Acesse o site oficial do linux ubuntu (https://ubuntu.com/);
 - Localize no menu a opção downloads;
@@ -157,16 +157,50 @@ Siga as instruções a seguir para instalar o sistema operacional Linux, distrib
   - Processador dual core de 2 GHz ou melhor 4 GB de memória do sistema;
   - 25 GB de espaço livre no disco rígido;
 
-O programa Linux Ubuntu está baixado!
+O arquivo ISO do sistema operacional Linux Ubuntu está baixado!
 
 
-------------------------------------------
-Como baixar o sistema operacional Windows?
+------------------------------------------------------------
+Como baixar o arquivo ISO do sistema operacional Windows 10?
 
-Siga estas instruções para ....
-...
+Siga as instruções a seguir para baixar o arquivo ISO do sistema operacional Windows 10:
 
-A tecnologia de virtualização pode estar exibida com a silga Vtx.--------------------------------
+- No site do google faça a pesquisa por ISO windowws 10;
+- Localize a opção "Baixar imagem de disco do Windows 10 (arquivo ISO)" do site da Microsoft; 
+- Você será levado à URL https://www.microsoft.com/pt-br/software-download/windows10
+
+  Observação: 
+  Se seu sistema operacional não for o windows você conseguirá baixar o arquivo ISO, 
+  caso seu sistema operaional seja o Windows você conseguirá baixar apenas o assistênte de instalação do windows
+  mas vou orientar um procedimento para que seja possível baixar o arquivo ISO do windows mesmo que o seu sistema já seja o windows.
+  
+  - Ao acessar o url https://www.microsoft.com/pt-br/software-download/windows10 através do browser Google Chrome aperte F12, em seu teclado;
+  - Será exibida a janela "DEV Tools", localize a aba "Network conditions";
+  - Localize o bloco "User agent";
+  - Desmarque a opção "Use browser default" e no campo imediatamente abaixo selecione a opção "Safari - Mac"
+  - Em seguida aperte F5, em seu teclado para atualizar página.
+    Repare que o botão "Baixar a ferramenta agora" irá sumir e serão exibidos os campos "Selecionar edição" e o "botão confirmar";
+    
+    Observação:
+    url da página da ferramenta https://www.microsoft.com/pt-br/software-download/windows10
+    url da página da iso https://www.microsoft.com/pt-br/software-download/windows10ISO
+  
+  - Selecione a edição "Windows 10" e clique no botão "confirmar";
+  - Em seguida a página será atualizar permitindo que seja necessário selecionar o idioma do produto(Português Brasil) e em clicar no botão "confirmar";
+  - A página será atualizada novamente permitindo baixar o Windows 10 Português (Brasil) 32-bit ou 64-bit;
+  
+    Observação:
+    Links válidos por 24 horas a partir da hora de criação.
+    
+O arquivo ISO do sistema operacional Windows 10 está baixado!
+
+
+********************************************************************************
+continuará daqui ...
+********************************************************************************
+
+
+--------------------------------
 Como criar uma maquina virtual?
 
 Siga estas instruções para ....
