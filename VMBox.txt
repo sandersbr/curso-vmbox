@@ -195,18 +195,66 @@ Siga as instruções a seguir para baixar o arquivo ISO do sistema operacional W
 O arquivo ISO do sistema operacional Windows 10 está baixado!
 
 
+---------------------------------------------------------------------------
+Como criar uma maquina virtual? (preparando-a para a instalação de um sistema operacional)
+
+- Execute o programma Oracle VM Virtual Box;
+- Como programa já aberto, clica no "botão Novo";
+  Atalho: Ctrl + N;
+  Caminho no menu "Maquina > Novo";
+  
+- Será exibida a janela "Criar maquina virtual";
+  - Informe qual nome deseja definir para sua maquina virtual que será criada dentro do programa virtual box;
+  - Defina qual a pasta em seu computador que irá armazenar a maquina virtual que será criada;
+  - Informe qual tipo de sistema operacional pretende instalar na maquina virtual que está sendo criada;
+  - Defina informa o tipo de sistema operacional que pretende instalar na maquina virtual que está sendo criada;
+  - Informe qual é a versão do sistema operacional que pretende instalar na maquina virtual que está sendo criada;
+- Clique no "botão próximo";
+
+- Na tela que será exibida informe:
+  - A quantidade de memória RAM que deseja definir para sua maquina virtual;
+    Observação:
+    Lembre-se que seu computador físico irá emular um outro computador, assim esse outro computador nunca poderá ter potência ou configuração maior ou igual a de seu computador mas sim menor;
+    Lembre-se de deixar uma quantididade mínima de memória RAM disponível e exclusiva para seu computador. Dessa forma seu computador não irá travar ao tentar emular a maquina virtual;
+    Lembre-se que se sua intenção for utilizar duas ou mais maquinas virtuais simultaneamente, essas maquinas juntas devem consumidor memoria RAM inferior a quantidade existente em seu computador físico;
+- Clique no "botão Próximo";
+
+- Na tela que será exibida, informe a opção de disco ridigo virtual que deseja utilizar em sua maquina virtual:
+  Observação: 
+  Um computador físico armazena todos os seus dados em um disco rígido que é um hardware.
+  Uma máquina virtual não possui um hardware então ele utiliza de um arquivo para representar seu disco rígido. Esse arquivo é chamado disco rígido virtual.
+
+Nessa tela você poderá determinar se quer continuar a instalação de sua maquina virtual sem criar um disco rígido vitual ou criar um novo disco rígido ou utilizar um disco rígido virtual que já possua.
+- Clique no "botão criar". 
+
+Supondo que estava selecionada a opção "Criar um novo disco rígido vitual agora"
+- Na tela que será exibida, as opções de disco rígido que podem ser criados. Sendo:
+  - VDI o arquivo padrão do programa VMBox "somente o Virtual Box lê" (VDI é um formato de arquivo de imagem de disco virtual usado para criar imagens de disco do disco virtual ou do disco lógico associado a um VirtualBox do Oracle Virtual Machine), 
+  - VHD o arquivo que pode ser lido em outros software de virtualização de maquinas (O Virtual Hard Disk é um formato padrão utilizado pela Microsoft para imagens de discos rígidos. É utilizado pelos produtos Virtual PC, Virtual Server, Hyper-V e por ferramentas de backup), 
+  - VMDK (O VMDK é um formato de arquivo aberto, criado pela VMware e usado principalmente para serviços de computação e virtualização em nuvem.)
+- Clique no "botão Próximo"
+
+- Na tela que será exibida, as opções de tipos de armazenamento do arquivo de disco rígido que podem ser criados. Sendo:
+  - Dinamicamente alocado: O arquivo de disco rígido que será criado pelo virtual box será é criado com tamanho pequeno e com seu uso vai crescendo até o tamanho máximo definido por você, na tela seguinte;
+  - Tamanho Fixo: O arquivo de disco rígido que será criado pelo virtual box será será criado com o tamanho máximo definido por você, na tela seguinte;
+ 
+ Observação:
+ O tipo de disco rígido virtual que está sendo selecionado tem impacto direto no espaço consumido no HD de eu computador físico.
+- Clique no "botão Próximo"
+
+- Na tela que será exibida, você poderá determinar o nome do arquivo de disco rígido que será criado em seu computador físico, o tamanho máximo e a localização de armazenamento desse arquivo(disco rígido virtual).
+
+ Observação:
+ É importante lembrar o tamanho que o sistema operacional, os programas e arquivos que pretende instalar e utilizar nessa máquina virtual irão ocupar ao serem armazenados e instalados.
+- Clique no "botão Criar"
+
+A nova maquina virtual está criada e preparada para receber a instalação do sistema operacional!
+
+
 ********************************************************************************
 continuará daqui ...
 ********************************************************************************
 
-
---------------------------------
-Como criar uma maquina virtual?
-
-Siga estas instruções para ....
-...
-
-A tecnologia de virtualização pode estar exibida com a silga Vtx.
 
 
 Como criar inciar e instalar o Windows em uma maquina virtual?
