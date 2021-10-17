@@ -67,8 +67,7 @@ Como habilitar virtualização no BIOS (Basic Input/Output System)?
 
 Siga as instruções a seguir para habilitar a virtualização:
 
-- Desligue o computador e ligue-o novamente. 
-- Acesse o SETUP ou BIOS em seu computador antes da inicialização do sistema operacional. 
+- Desligue o computador, ligue-o novamente e acesse o SETUP ou BIOS em seu computador antes da inicialização do sistema operacional. 
 
   Observação:  
   Isso dependerá do fabricante da placa mãe de seu computador. 
@@ -82,7 +81,10 @@ Siga as instruções a seguir para habilitar a virtualização:
       Sony: F1, F2 ou F3; 
       
 - Ao acessar a BIOS, navegue até a aba configuração. Pressione a tecla de seta para a direita até System Configuration (Configuração do Sistema), selecione Virtualization - Technology (Tecnologia de Virtualização) e pressione a tecla Enter. Mude de Disabled para Enabled (Habilitado) e pressione a tecla Enter.
-  Observação: A tecnologia de virtualização pode estar exibida com a silga Vtx.
+
+  Observação: 
+  A tecnologia de virtualização pode estar exibida com a silga Vtx.
+  
 - Salve as alterações e saia. 
 
   Observação:
@@ -109,7 +111,7 @@ Siga as instruções a seguir para baixar o virtualbox:
   - Solaris 11 IPS hosts  <--- pacote para solaris
 - Ao clicar em uma das opções o download ocorrerá em seu computador e dependendo das confirgurações de seu navegador de internet ocorrerá de forma automática para a pasta downloads em seu computador.
 
-O programa VMBox está baixado!
+O instalador do programa VMBox está baixado!
 
 
 ----------------------
@@ -117,19 +119,25 @@ Como instalar o VMBox?
 
 Siga as instruções a seguir para instalar o VMBox:
 
-- Localize o instalador, clique apenas uma vez para selecioná-lo e cliente Enter para executá-lo;
-- A primeira tela é de boas vindas. Clique no "botão next" para prosseguir;
-- A tela seguinte exibe o local de instalação do programa bem como:
+- Localize o instalador do programa Oracle VM Virtual Box; 
+  por exemplo: VirtualBox-6.1.26-145957-Win.exe
+- Clique apenas uma vez para selecioná-lo e clique Enter para executá-lo;
+- Será exibida a janela do instalador na primeira tela "de boas vindas". Nela clique no "botão next" para prosseguir;
+- A tela seguinte exibe o local de instalação do programa Oracle VM Virtual Box, bem como:
   - suporte para uso do usb;
   - emulador de placa de rede;
-  Clique no "botão next" para prosseguir;
+  - Clique no "botão Next" para prosseguir;
+  
 - A tela seguinte exibe opções para a criação de atalhos bem como a opção "Register file associations" que faz com que arquivos(de hd) de outros tipos de maquinas virtuais quem estejam em seu computador sejam reconhecidos como compatíveis com a VMBox;
-  Clique no "botão next" para prosseguir;
+  - Clique no "botão Next" para prosseguir;
+  
 - A tela seguinte exibe um aviso importante informado que a placa de rede de seu computador será reiniciada para a instalação da placa de rede lógica do programa virutalbox;
-  Clique no "botão yes" para prosseguir;
-- Na tela seguinte clique no "botão install" e aguarde o processo de instalação;
-  - durante a instalação poderá ser exibido janelas para confirmação da instalçao de drives como os de usb e de rede;
-- Na tela seguinte clique no "botão finish";
+  - Clique no "botão Yes" para prosseguir;
+  
+- Na tela seguinte clique no "botão Install" e aguarde o processo de instalação;
+  - durante a instalação poderão ser exibidas janelas para confirmação da instalaçao de drivers como os de usb e de rede;
+  
+- Na tela seguinte clique no "botão Finish";
 
 O programa virtual box está instalado!
 
@@ -174,29 +182,31 @@ Siga as instruções a seguir para baixar o arquivo ISO do sistema operacional W
   caso seu sistema operaional seja o Windows você conseguirá baixar apenas o assistênte de instalação do windows
   mas vou orientar um procedimento para que seja possível baixar o arquivo ISO do windows mesmo que o seu sistema já seja o windows.
   
-  - Ao acessar o url https://www.microsoft.com/pt-br/software-download/windows10 através do browser Google Chrome aperte F12, em seu teclado;
-  - Será exibida a janela "DEV Tools", localize a aba "Network conditions";
-  - Localize o bloco "User agent";
-  - Desmarque a opção "Use browser default" e no campo imediatamente abaixo selecione a opção "Safari - Mac"
-  - Em seguida aperte F5, em seu teclado para atualizar página.
-    Repare que o botão "Baixar a ferramenta agora" irá sumir e serão exibidos os campos "Selecionar edição" e o "botão confirmar";
+- Ao acessar o url https://www.microsoft.com/pt-br/software-download/windows10 através do browser Google Chrome aperte F12, em seu teclado;
+- Será exibida a janela "DEV Tools", localize a aba "Network conditions";
+- Localize o bloco "User agent";
+- Desmarque a opção "Use browser default" e no campo imediatamente abaixo selecione a opção "Safari - Mac"
+- Em seguida aperte F5, em seu teclado para atualizar página.
+  Repare que o botão "Baixar a ferramenta agora" irá sumir e serão exibidos os campos "Selecionar edição" e o "botão confirmar";
     
-    Observação:
-    url da página da ferramenta https://www.microsoft.com/pt-br/software-download/windows10
-    url da página da iso https://www.microsoft.com/pt-br/software-download/windows10ISO
+  Observação:
+  url da página da ferramenta https://www.microsoft.com/pt-br/software-download/windows10
+  url da página da iso https://www.microsoft.com/pt-br/software-download/windows10ISO
   
-  - Selecione a edição "Windows 10" e clique no botão "confirmar";
-  - Em seguida a página será atualizar permitindo que seja necessário selecionar o idioma do produto(Português Brasil) e em clicar no botão "confirmar";
-  - A página será atualizada novamente permitindo baixar o Windows 10 Português (Brasil) 32-bit ou 64-bit;
+- Selecione a edição "Windows 10" e clique no botão "confirmar";
+- Em seguida a página será atualizar permitindo que seja necessário selecionar o idioma do produto(Português Brasil) e em clicar no botão "confirmar";
+- A página será atualizada novamente permitindo baixar o Windows 10 Português (Brasil) 32-bit ou 64-bit;
   
-    Observação:
-    Links válidos por 24 horas a partir da hora de criação.
+  Observação:
+  Links válidos por 24 horas a partir da hora de criação.
     
 O arquivo ISO do sistema operacional Windows 10 está baixado!
 
 
----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 Como criar uma maquina virtual? (preparando-a para a instalação de um sistema operacional)
+
+Siga as instruções a seguir para criar uma maquina virtual no seu programa Oracle Virtual Box:
 
 - Execute o programma Oracle VM Virtual Box;
 - Como programa já aberto, clica no "botão Novo";
@@ -213,6 +223,7 @@ Como criar uma maquina virtual? (preparando-a para a instalação de um sistema 
 
 - Na tela que será exibida informe:
   - A quantidade de memória RAM que deseja definir para sua maquina virtual;
+  
     Observação:
     Lembre-se que seu computador físico irá emular um outro computador, assim esse outro computador nunca poderá ter potência ou configuração maior ou igual a de seu computador mas sim menor;
     Lembre-se de deixar uma quantididade mínima de memória RAM disponível e exclusiva para seu computador. Dessa forma seu computador não irá travar ao tentar emular a maquina virtual;
@@ -220,6 +231,7 @@ Como criar uma maquina virtual? (preparando-a para a instalação de um sistema 
 - Clique no "botão Próximo";
 
 - Na tela que será exibida, informe a opção de disco ridigo virtual que deseja utilizar em sua maquina virtual:
+
   Observação: 
   Um computador físico armazena todos os seus dados em um disco rígido que é um hardware.
   Uma máquina virtual não possui um hardware então ele utiliza de um arquivo para representar seu disco rígido. Esse arquivo é chamado disco rígido virtual.
@@ -238,26 +250,99 @@ Supondo que estava selecionada a opção "Criar um novo disco rígido vitual ago
   - Dinamicamente alocado: O arquivo de disco rígido que será criado pelo virtual box será é criado com tamanho pequeno e com seu uso vai crescendo até o tamanho máximo definido por você, na tela seguinte;
   - Tamanho Fixo: O arquivo de disco rígido que será criado pelo virtual box será será criado com o tamanho máximo definido por você, na tela seguinte;
  
- Observação:
- O tipo de disco rígido virtual que está sendo selecionado tem impacto direto no espaço consumido no HD de eu computador físico.
+  Observação:
+  O tipo de disco rígido virtual que está sendo selecionado tem impacto direto no espaço consumido no HD de eu computador físico.
+  
 - Clique no "botão Próximo"
 
 - Na tela que será exibida, você poderá determinar o nome do arquivo de disco rígido que será criado em seu computador físico, o tamanho máximo e a localização de armazenamento desse arquivo(disco rígido virtual).
 
- Observação:
- É importante lembrar o tamanho que o sistema operacional, os programas e arquivos que pretende instalar e utilizar nessa máquina virtual irão ocupar ao serem armazenados e instalados.
+Observação:
+É importante lembrar o tamanho que o sistema operacional, os programas e arquivos que pretende instalar e utilizar nessa máquina virtual irão ocupar ao serem armazenados e instalados.
+
 - Clique no "botão Criar"
 
 A nova maquina virtual está criada e preparada para receber a instalação do sistema operacional!
 
+
+-----------------------------------------------
+Como instalar o Windows 10 uma maquina virtual? 
+
+Siga as instruções a seguir para instalar o Windows 10 em sua maquina virtual: 
+
+- Com o programa Oracle Virtual Box aberto, selecione a maquina virtual que foi recém criada;
+- Clique em iniciar;
+
+Será exibida a janela para selecionar o disco rígido de boot, nela:
+
+- Selecione um arquivo de disco óptico virtual que será utilizado para iniciar a sua maquina virtual;
+- Selecione o arquivo ISO do sistema operacional que deseja. Neste exemplo o Windows 10;
+- Em seguida clique no "botão Iniciar";
+
+A maquina virtual será iniciada e também a instalação do sistema operacional selecionado;
+
+Será exibida a janela "Instalação do Windows", nela:
+
+- Informe o "Idioma a instalar";
+- Informe o "Formato de hora e moeda";
+- Informe o "Teclado ou método de entrada";
+- Clique no "botão Avançar";
+
+Na janela seguinte clique no "botão Instalar agora";
+
+Será exibida a mensagem "A instalação está sendo iniciada";
+
+Na janela seguinte insira a chave de ativação do Windows, e em seguida clique no "botão Avançar";
+Caso não possua uma chave de ativação "não clique no botão Avançar", clique na "opção Não tenho a chave do produto". (A qualquer após a instalação do sistema operacional será possível inserir a chve de ativação do Windows);
+
+Na janela seguinte seleciona o sistema operacional que deseja instalar, dentre as opções:
+  - Windows 10 Home;
+  - Windows 10 Home Single Language;
+  - Windows 10 Education;
+  - Windows 10 Pro;
+  - Windows 10 Pro Education;
+  - Windows 10 Pro for Workstations;
+  
+- Em seguida clique no "botão Avançar";
+
+- Aceite os temos de licença e em seguida clique no "botão Avançar";
+
+Na janela seguinte, seleciona que tipo de instalação deseja realizar;
+  - Sugestão: Selecione a opção "Personalizada" tendo em vista que por ela você irá instalar uma nova cópia do Windows e poderá escolher como dimensionar (e/ou particionar) o "HD"; (Por exemplo uma parte para os "sistemas" e outra parte para "dados")
+
+- Em seguida clique no "botão Avançar" e será iniciada a instalação do Windows;
+
+Durante a instalação será exibida a janela "Configurar o Windows", nela:
+
+Os passo a seguir são intuitivos e podem variar a depender da versão do windows que está sendo selecionada;
+
+Por fim seu sistema estará instalado!
+
+Veja mais detalhes sobre o windows 10 em:
+URL da página "Compare o Windows 1p Home e o Pro": https://www.microsoft.com/pt-br/windows/compare-windows-10-home-vs-pro
+URL da página "Como descobrir as especificações e os requisitos de um computador com Windows 10": https://www.microsoft.com/pt-br/windows/windows-10-specifications#primaryR2
+
+Requisitos do sistema para instalar o Windows 10:
+Estes são os requisitos básicos para instalar o Windows 10 em um computador. Caso seu dispositivo não atenda a esses requisitos, talvez você não tenha uma experiência tão boa com o Windows 10 e possa querer considerar a compra de um novo computador.
+Processador:		Processador de 1 gigahertz (GHz) ou mais rápido ou Sistema em um chip (SoC)
+RAM: 			1 gigabyte (GB) para 32 bits ou 2 GB para 64 bits 
+Espaço em disco rígido:	16 GB para um sistema operacional de 32 bits ou 32 GB para um de 64 bits
+Placa gráfica:		DirectX 9 ou posterior com driver WDDM 1.0
+Tela:			800 x 600
+Conexão com a Internet:	Requer uma conexão com a Internet para executar atualizações e baixar e aproveitar alguns recursos. O Windows 10 Pro no modo S, o Windows 10 Pro Education no modo S, o Windows 10 Education no modo S e o Windows 10 Enterprise no modo S exigem uma conexão com a Internet durante a configuração inicial do dispositivo (OOBE), além de uma conta da Microsoft (MSA) ou conta do Azure Activity Directory (AAD). Alternar para um dispositivo do Windows 10 no modo S também requer conectividade com a Internet.
+
+
+.............................................................................................................................................................................
+Após a instalação do Windows você deve ter percebido que a janela possui barra de rolagem e não está ocorrendo redimmensionamento de forma automática. Para solucionar essa e outras questões vá para o Tópico "Configuração Adicionais de Convidade da Maquina Virtual"
+.............................................................................................................................................................................
 
 ********************************************************************************
 continuará daqui ...
 ********************************************************************************
 
 
-
-Como criar inciar e instalar o Windows em uma maquina virtual?
+-----------------------------------------------
+Como instalar o Windows em uma maquina virtual?
 
 Siga estas instruções para ....
 ...
