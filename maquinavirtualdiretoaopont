@@ -1,0 +1,185 @@
+INDICE - VIRTUALIZAÇÃO
+
+INTRODUÇÃO 
+
+- HARDWARE X SOFTWARE
+- MAQUINA FÍSICA E SUA CONFIGURAÇÃO OU ESPECIFICAÇÕES TÉCNICAS DE HARDWARE
+- SISTEMA OPERACIONAL: TIPOS, VERSÕES, DISTRIBUIÇÕES 
+- SOFTWARE: PROGRAMAS E SUAS APLICAÇÕES
+- SISTEMA OPERACIONAL E REQUISITOS MÍNIMOS PARA INSTALAÇÃO
+
+
+01. DOWNLOAD
+
+01.01. SISTEMA OPERACIONAL
+
+    • UBUNTU LINUX
+    
+      - DOWNLOAD
+        > https://ubuntu.com/download/desktop
+        
+      - REQUISITOS MINIMOS PARA INSTALAÇÃO
+        > ...
+        
+      - RELEASES
+        > https://releases.ubuntu.com/
+        > http://old-releases.ubuntu.com/releases/
+          > Ubuntu 4.10 (Warty Warthog)							http://old-releases.ubuntu.com/releases/warty/		
+          > Ubuntu 5.04 (Hoary Hedgehog)						http://old-releases.ubuntu.com/releases/hoary/		
+          > Ubuntu 5.10 (Breezy Badger)							http://old-releases.ubuntu.com/releases/breezy/		
+          > Ubuntu 6.06.2 LTS (Dapper Drake)				http://old-releases.ubuntu.com/releases/dapper/		
+          > Ubuntu 6.10 (Edgy Eft)									http://old-releases.ubuntu.com/releases/edgy/		
+          > Ubuntu 7.04 (Feisty Fawn)								http://old-releases.ubuntu.com/releases/feisty/		
+          > Ubuntu 7.10 (Gutsy Gibbon)							http://old-releases.ubuntu.com/releases/gutsy/		
+          > Ubuntu 8.04.4 LTS (Garça Dura)					http://old-releases.ubuntu.com/releases/hardy/		
+          > Ubuntu 8.10 (Intrepid Ibex)							http://old-releases.ubuntu.com/releases/intrepid/	
+          > Ubuntu 9.04 (Jaunty Jackalope)					http://old-releases.ubuntu.com/releases/jaunty/		
+          > Ubuntu 9.10 (Coala Cármico)							http://old-releases.ubuntu.com/releases/karmic/		
+          > Ubuntu 10.04.4 LTS (Lucid Lynx)					http://old-releases.ubuntu.com/releases/lucid/		
+          > Ubuntu 10.10 (Maverick Meerkat)					http://old-releases.ubuntu.com/releases/maverick/	
+          > Ubuntu 11.04 (Natty Narwhal)						http://old-releases.ubuntu.com/releases/natty/		
+          > Ubuntu 11.10 (Oneiric Ocelot)						http://old-releases.ubuntu.com/releases/oneiric/	
+          > Ubuntu 12.04.5 LTS (Pangolin Preciso)		http://old-releases.ubuntu.com/releases/precise/	
+          > Ubuntu 12.10 (Quantal Quetzal)					http://old-releases.ubuntu.com/releases/quantal/	
+          > Ubuntu 13.04 (Raring Ringtail)					http://old-releases.ubuntu.com/releases/raring/		
+          > Ubuntu 13.10 (Salamandra Saucy)					http://old-releases.ubuntu.com/releases/saucy/		
+          > Ubuntu 14.10 (Unicórnio úpico)					http://old-releases.ubuntu.com/releases/utopic/		
+          > Ubuntu 15.04 (Vivid Vervet)							http://old-releases.ubuntu.com/releases/vivid/		
+          > Ubuntu 15.10 (Lobisomem Wily)						http://old-releases.ubuntu.com/releases/wily/		
+          > Ubuntu 16.10 (Yakkety Yak)							http://old-releases.ubuntu.com/releases/yakkety/	
+          > Ubuntu 17.04 (Zesty Zapus)							http://old-releases.ubuntu.com/releases/zesty/		
+          > Ubuntu 17.10 (Artful Aardvark)					http://old-releases.ubuntu.com/releases/artful/		
+          > Ubuntu 18.10 (Peixe-Cuttlefish Cósmico)	http://old-releases.ubuntu.com/releases/cosmic/		
+          > Ubuntu 19.04 (Disco Dingo)							http://old-releases.ubuntu.com/releases/disco/		
+          > Ubuntu 19.10 (Eoan Ermine)							http://old-releases.ubuntu.com/releases/eoan/		
+          > Ubuntu 20.10 (Gorila Groovy)						http://old-releases.ubuntu.com/releases/groovy/		
+          > Ubuntu 21.04 (Hipopótamo Hirsute)				http://old-releases.ubuntu.com/releases/hirsute/	
+          > Ubuntu 21.10 (Impish Indri)							http://old-releases.ubuntu.com/releases/impish/		
+          > Ubuntu 22.04 (Jammy Jellyfish)					http://old-releases.ubuntu.com/releases/jammy/		
+          > Ubuntu 14.04.5 LTS (Trusty Tahr)				http://old-releases.ubuntu.com/releases/trusty/trusty/ 
+          > Ubuntu 16.04.6 LTS (Xenial Xerus)				http://old-releases.ubuntu.com/releases/trusty/xenial/
+          > Ubuntu 18.04.5 LTS (Castor Biônico)			http://old-releases.ubuntu.com/releases/trusty/bioni
+          > Ubuntu 20.04.4 LTS (Focal Fossa)				http://old-releases.ubuntu.com/releases/trusty/focal/      
+          
+      - DISTRIBUIÇÕES
+          > Kubuntu																	http://cdimage.ubuntu.com/kubuntu/releases/
+          > Lubuntu																	http://cdimage.ubuntu.com/lubuntu/releases/
+          > Mythbuntu																http://cdimage.ubuntu.com/mythbuntu/releases/
+          > Ubuntu Budgie														http://cdimage.ubuntu.com/ubuntu-budgie/
+          > Ubuntu GNOME														http://cdimage.ubuntu.com/ubuntu-gnome/releases/
+          > UbuntuKylin															http://cdimage.ubuntu.com/ubuntukylin/releases/
+          > Ubuntu MATE 														http://cdimage.ubuntu.com/ubuntu-mate/releases/
+          > UbuntuStudio 														http://cdimage.ubuntu.com/ubuntustudio/releases/
+          > Xubuntu																	http://cdimage.ubuntu.com/xubuntu/releases/
+          
+          > Personalização: Arch Linux
+          > Simplicidade: MX Linux
+          > Facilidade de uso: Linux Mint
+          > Privacidade: Tails
+          > Forense: Kali Linux
+          > Executa a partir da RAM: Puppy Linux
+          > Fonte: https://sempreupdate.com.br/conheca-as-melhores-distribuicoes-linux-de-2022/
+          
+      - TUTORIAL
+        > https://ubuntu.com/tutorials/upgrading-ubuntu-desktop#1-before-you-start
+        > https://ubuntu.com/tutorials/guidelines#1-overview
+        > Guias de instalação para o Ubuntu Desktop (https://ubuntu.com/tutorials/tutorial-install-ubuntu-desktop)
+        > Você pode aprender como experimentar o Ubuntu antes de instalar (https://ubuntu.com/tutorials/try-ubuntu-before-you-install)        
+        
+    • WINDOWS SO
+    
+      - DOWNLOAD
+        > https://www.microsoft.com/pt-br/software-download/windows10ISO
+        > https://software.download.prss.microsoft.com/dbazure/Win10_22H2_BrazilianPortuguese_x32.iso?t=a9045a17-bf74-407a-bfd3-2321dacd925f&e=1667011620&h=246f4bfaa769a3a9ff464fcbe1ad00753aa901791cf3a19c01e6b200d35817e1
+        > https://software.download.prss.microsoft.com/dbazure/Win10_22H2_BrazilianPortuguese_x64.iso?t=a9045a17-bf74-407a-bfd3-2321dacd925f&e=1667011620&h=b8191457ac0065f094f3585e2756793fd7f4ee668a7d4361de1facec4581308d
+        > https://www.microsoft.com/en-us/download
+        
+      - REQUISITOS MINIMOS PARA INSTALAÇÃO
+        > ...        
+   
+01.02. SOFTWARE DE VIRTUALIZAÇÃO DE REDES E MAQQUINAS VIRTUAIS
+
+    • VMBOX
+    
+      - DOWNLOAD
+        > https://www.virtualbox.org/wiki/Downloads
+        > https://www.oracle.com/br/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+        
+      - Documentação
+        > https://www.virtualbox.org/wiki/Documentation
+        > https://www.oracle.com/br/virtualization/virtualbox/
+        > https://www.virtualbox.org
+        
+      - FÓRUM
+        > https://forums.virtualbox.org
+
+02. INSTALAÇÃO
+
+02.01. ORACLE VM VIRTUALBOX
+02.02. MAQUINA VIRTUAL
+       > Criar uma máquina virtual
+         > ...
+         > Dimensionando uma maquina virtual
+         > ...
+       
+02.03. WINDOWS SO
+       Windows 10
+       > Adicionais de convidados
+       
+02.04. LINUX SO
+       Ubuntu 20.04 LTS Focal Fossa Linux
+       > sem nada
+       > 
+       > Adicionais de convidados
+         : Consistem em drivers de dispositivos que permitem uma melhor resolução de tela e integração do mouse
+         : Eles otimizarão seu sistema operacional em relação ao seu desempenho e usabilidade
+         > https://linuxconfig.org/virtualbox-install-guest-additions-on-ubuntu-20-04-lts-focal-fossa
+           > 
+       
++++++++
+Neste tutorial você aprenderá:
+  Como instalar adições de hóspedes do Virtualbox.
+  Como verificar a instalação de adições de hóspedes do Virtualbox.
+  
+Requisitos e Convenções de Software Usadas
+
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Categoria	            | Requisitos, Convenções ou Versão de Software Utilizada                                                                       |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Sistema	              | Instalado Ubuntu 20.04 ou Ubuntu atualizado 20.04 Focal Fossa                                                                |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Software	            | N/A                                                                                                                          |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Outros__________	    | Acesso privilegiado ao seu sistema Linux como raiz ou através do comando.sudo                                                |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Convenções            |	# – requer que os comandos linux sejam executados com privilégios raiz diretamente como usuário raiz ou pelo uso de comando  |
+|                       | $ – requer que os comandos linux sejam executados como um usuário regular não privilegiado sudo                              |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+
+
+Installing Virtualbox guest additions on Ubuntu 20.04 LTS Focal Fossa step by step instructions
+
+  passo 01
+  A maneira mais fácil de instalar adições de hóspedes do Virtualbox no Ubuntu 20.04 LTS Focal Fossa é instalar os seguintes pacotes do repositório padrão do Ubuntu:
+
+    $ sudo add-apt-repository multiverse
+    $ sudo apt install virtualbox-guest-dkms virtualbox-guest-x11
+
+  passo 02
+  Tudo pronto. Reinicie sua máquina virtual:
+  
+  $ sudo reboot
+
+  passo 03
+  Confirme as adições de hóspedes do Virtualbox:
+  
+  lsmod  | grep vbox
+  vboxsf                 81920  0
+  vboxguest             344064  6 vboxsf
+
+  Fonte: 
+  https://linuxconfig.org/virtualbox-install-guest-additions-on-ubuntu-20-04-lts-focal-fossa
+  https://linuxconfig.org/things-to-install-on-ubuntu-20-04
+  
++++++++
+
