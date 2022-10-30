@@ -1,11 +1,20 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ SUMÁRIO
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 TÓPICOS
 
+CONCEITOS
 • O que é VMBox?
 • O que é VirtualBox?
 • Para que serve uma VM?
+
+REQUISITOS
 • Requisito para a instalação e uso:
 • Como posso saber se a tecnologia de virtualização está habilitada no meu computador?
 • Como habilitar virtualização no BIOS (Basic Input/Output System)?
+
+OPERACIONALIZAÇÃO: DOWNLOAD, INSTALAÇÃO, CONFIGURAÇÕES ESPECIAIS
 • Como baixar o VMBox?
 • Como instalar o VMBox?
 • Como baixar sistemas alguns sistemas operacionais?
