@@ -2,4 +2,40 @@
  11. COMO BAIXAR O ARQUIVO ISO DO SISTEMA OPERACIONAL WINDOWS 10?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+------------------------------------------------------------
+Como baixar o arquivo ISO do sistema operacional Windows 10?
+
+Siga as instruções a seguir para baixar o arquivo ISO do sistema operacional Windows 10:
+
+- No site do google faça a pesquisa por ISO windowws 10;
+- Localize a opção "Baixar imagem de disco do Windows 10 (arquivo ISO)" do site da Microsoft; 
+- Você será levado à URL https://www.microsoft.com/pt-br/software-download/windows10
+
+  Observação: 
+  Se seu sistema operacional não for o windows você conseguirá baixar o arquivo ISO, 
+  caso seu sistema operacional seja o Windows você conseguirá baixar apenas o assistênte de instalação do windows
+  mas vou orientar um procedimento para que seja possível baixar o arquivo ISO do windows mesmo que o seu sistema já seja o windows.
+  
+- Ao acessar o url https://www.microsoft.com/pt-br/software-download/windows10 através do browser Google Chrome aperte F12, em seu teclado;
+- Será exibida a janela "DEV Tools", localize a aba "Network conditions";
+- Localize o bloco "User agent";
+- Desmarque a opção "Use browser default" e no campo imediatamente abaixo selecione a opção "Safari - Mac"
+- Em seguida aperte F5, em seu teclado para atualizar página.
+  Repare que o botão "Baixar a ferramenta agora" irá sumir e serão exibidos os campos "Selecionar edição" e o "botão confirmar";
+    
+  Observação:
+  URL da página da ferramenta: https://www.microsoft.com/pt-br/software-download/windows10
+  URL da página da ISO do Windows10: https://www.microsoft.com/pt-br/software-download/windows10ISO
+  URL direto da ISO 64bit Windows10: https://software-download.microsoft.com/pr/Win10_21H1_BrazilianPortuguese_x64.iso?t=e5b08e6c-6b0c-430e-bda3-58afd2622834&e=1634601424&h=e4aba6f64699e490d8363440fbdaf751
+  URL direto da ISO 32bit Windows10: https://software-download.microsoft.com/pr/Win10_21H1_BrazilianPortuguese_x32.iso?t=e5b08e6c-6b0c-430e-bda3-58afd2622834&e=1634601424&h=61c4b0055cf5a6675f8c35d39d2d4b7e
+  
+- Selecione a edição "Windows 10" e clique no botão "confirmar";
+- Em seguida a página será atualizar permitindo que seja necessário selecionar o idioma do produto(Português Brasil) e em clicar no botão "confirmar";
+- A página será atualizada novamente permitindo baixar o Windows 10 Português (Brasil) 32-bit ou 64-bit;
+  
+  Observação:
+  Links válidos por 24 horas a partir da hora de criação.
+    
+O arquivo ISO do sistema operacional Windows 10 está baixado!
+
 ...
