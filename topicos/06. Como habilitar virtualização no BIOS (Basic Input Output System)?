@@ -2,4 +2,37 @@
  06. COMO HABILITAR VIRTUALIZAÇÃO NO BIOS (INPUT;OUTPUT SYSTEM)?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-...
+-----------------------------------------------------------------
+Como habilitar virtualização no BIOS (Basic Input/Output System)?
+
+Siga as instruções a seguir para habilitar a virtualização:
+
+- Desligue o computador, ligue-o novamente e acesse o SETUP ou BIOS em seu computador antes da inicialização do sistema operacional. 
+
+  Observação:  
+  Isso dependerá do fabricante da placa mãe de seu computador. 
+    Exemplo:  
+      Acer: F2 ou Del;
+      Asus: F2 ou Del;
+      Dell: F2 ou F12;
+      HP: ESC ou F10;
+      Lenovo: F1, F2 ou Fn + F2;
+      Samsung: F2;
+      Sony: F1, F2 ou F3; 
+      
+- Ao acessar a BIOS, navegue até a aba configuração. Pressione a tecla de seta para a direita até System Configuration (Configuração do Sistema), selecione Virtualization - Technology (Tecnologia de Virtualização) e pressione a tecla Enter. Mude de Disabled para Enabled (Habilitado) e pressione a tecla Enter.
+
+  Observação: 
+  A tecnologia de virtualização pode estar exibida com a silga Vtx.
+  
+- Salve as alterações e saia. 
+
+  Observação:
+  Normalmente F10 Save and Exit.
+  
+- O computador reiniciará automaticamente. 
+
+  Observação: 
+  Se não for possível habilitar a Tecnologia de Virtualização no BIOS, verifique se o BIOS precisa ser atualizado.
+  
+  ...
