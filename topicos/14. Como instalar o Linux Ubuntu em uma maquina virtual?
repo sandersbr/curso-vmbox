@@ -2,4 +2,98 @@
  14. COMO INSTALAR O LINUX UBUNTU EM UMA MAQUINA VIRTUAL?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------------------------
+Como instalar o Linux Ubuntu em uma maquina virtual?
+
+Siga as instruções a seguir para instalar o Linux Ubuntu em sua maquina virtual: 
+
+Atenção:
+Normalmente durante a instalação do ubuntu há um problema no dimensionamento da tela do video.
+Vamos orientar como solucionar esse problema.
+
+Com o programa Oracle Virtual Box aberto, selecione a maquina virtual que foi recém criada;
+- Clique em Configurações;
+
+Será exibida a janela Configurações, nela:
+- Selecione a opção Armazenamento, na lateral esquerda da janela;
+- Selecione a o "disco óptico" da controladora:IDE, localizada no bloco Dispositivos de Armazenamento;
+- Em seguida clique no disco azul localizado a direita do campo Drive Óptico para escolher um disco óptico virtual;
+- Selecione a opção "Escolher uma imagem de disco";
+- Localize e selecione o arquivo ISO do sistema operacional Linux Ubuntu que foi baixado em seu computador físico;
+- Após selecionar o arquivo ISO (exemnplo: ubuntu-20.04.3-desktop-amd64.iso), clique no "botão Abrir";
+
+O arquivo ISO, do sistema operacional Linux Ubuntu, será exibido na unidade óptica da controladora IDE;
+- Clique no "botão OK";
+- Clique no "botão Iniciar";
+
+Será iniciada a verificação dos discos;
+
+A maquina virtual será iniciada e também a instalação do sistema operacional selecionado;
+
+Será exibida a tela de boas vindas na janela "Instalação do Ubuntu" em inglês, nela:
+- Informe o "Idioma a instalar"; (English)
+
+ + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ | Atenção:
+ | Vantagens na escolha do idiona inglês(English)
+ | - Quando você for buscar alguma coisa na internet para resolver algum problema que dê no seu Ubuntu, muito provavelmente você vai achar as melhores respostas em inglês.
+ | - Também para ficar igual, os comandos;
+ | - O profissional de programação tem que saber o inglês de leitura. 
+ | - Então é uma grande oportunidade você já usar o seu sistema em inglês para já ir ambientalizando com o idioma;
+ |  
+ | Sugestão: 
+ | - Você também poderá instalar outra maquina virtual como Linux Ubuntu com idioma em português do Brasil;
+ + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Nessa mesma tela você poderá:
+- executar e experimentar o Ubuntu para testar o ambiente gráfico sem qualquer instalação ou alteração em seu computador 
+- ou instalar o Ubuntu como sistema operacional;
+
+Então:
+
+- Clique no "botão Install Ubuntu";
+
+Na tela de layout do teclado(Keyboard layout):
+- Escolha o layout do teclado escolha o portuguese (Brazil) portuguese (Brazil);
+- Teste o teclado utilizando as teclas de acento e de caracteres especiais;
+- Aperte a tecla TAB(2x) até chegar no botão de Continuar e aperte Enter;
+
+Na tela seguinte, selecione:
+- Normal installation (Instalação Normal);
+- Download updates while installing Ubunu (baixar as atualizações);
+- Install third-party software for graphics and Wi-Fi hardware and additional media formats (drivers gráficos);
+- Aperte a tecla TAB(2x) até chegar no botão de Continuar e aperte Enter;
+
+Na tela de tipo de instalação, selecione:
+- Erase disk install Ubuntu; (por se tratar de uma instalação novinha, pois irá apagar o disk e instalar o Ubuntu)
+- Aperte a tecla TAB(2x) até chegar no botão de Continuar e aperte Enter;
+
+Será exibida um modal para confirmação:
+- Clique no "botão Continue";
+
+Será exibida a tela para informar a time zone; (fuso horário)
+- Informa São Paulo;
+- Aperte a tecla TAB(2x) até chegar no botão de Continuar e tecle Enter;
+
+Na tela seguinte informe:
+- Seu nome
+- Nome de seu computador
+- Nome de usuário
+- Senha
+- Desmarque a opção de realizar login automaticamente;
+- Marque a opção de solicitar senha para realizar o login;
+- Aperte a tecla TAB e tecle Enter;
+
+Agora ele irá avançar e começar a instalação;
+
+Quando terminar, será exibida uma janela informando que a instalação está completa e que você precisa reiniciar.
+- Clique no "botão Restart Now";
+
+Após reiniciar, o sistema operacional Ubuntu será exibido conforme o padrão de resolução que está gravado nas configurações do sistema(Ubuntu).
+
+Por fim seu sistema operacional Linux Ubuntu estará instalado!
+
+Mais informações veja o tópico: Como incluir as configurações Adicionais de Convidados com a maquina virtual executando o sistema operacional Linux Ubuntu?
+
+
 ...
