@@ -2,4 +2,31 @@
  08. COMO INSTALAR O VMBOX?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+----------------------
+Como instalar o VMBox?
+
+Siga as instruções a seguir para instalar o VMBox:
+
+- Localize o instalador do programa Oracle VM Virtual Box; 
+  por exemplo: VirtualBox-6.1.26-145957-Win.exe
+- Clique apenas uma vez para selecioná-lo e clique Enter para executá-lo;
+- Será exibida a janela do instalador na primeira tela "de boas vindas". Nela clique no "botão next" para prosseguir;
+- A tela seguinte exibe o local de instalação do programa Oracle VM Virtual Box, bem como:
+  - suporte para uso do usb;
+  - emulador de placa de rede;
+  - Clique no "botão Next" para prosseguir;
+  
+- A tela seguinte exibe opções para a criação de atalhos bem como a opção "Register file associations" que faz com que arquivos(de hd) de outros tipos de maquinas virtuais quem estejam em seu computador sejam reconhecidos como compatíveis com a VMBox;
+  - Clique no "botão Next" para prosseguir;
+  
+- A tela seguinte exibe um aviso importante informado que a placa de rede de seu computador será reiniciada para a instalação da placa de rede lógica do programa virutalbox;
+  - Clique no "botão Yes" para prosseguir;
+  
+- Na tela seguinte clique no "botão Install" e aguarde o processo de instalação;
+  - durante a instalação poderão ser exibidas janelas para confirmação da instalaçao de drivers como os de usb e de rede;
+  
+- Na tela seguinte clique no "botão Finish";
+
+O programa virtual box está instalado!
+
 ...
