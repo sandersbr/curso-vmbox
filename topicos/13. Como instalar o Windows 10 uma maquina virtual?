@@ -2,4 +2,69 @@
  13. COMO INSTALAR O WINDOWS 10 EM UMA MAQUINA VIRTUAL?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------
+Como instalar o Windows 10 uma maquina virtual? 
+
+Siga as instruções a seguir para instalar o Windows 10 em sua maquina virtual: 
+
+- Com o programa Oracle Virtual Box aberto, selecione a maquina virtual que foi recém criada;
+- Clique em iniciar;
+
+Será exibida a janela para selecionar o disco rígido de boot, nela:
+
+- Selecione um arquivo de disco óptico virtual que será utilizado para iniciar a sua maquina virtual;
+- Selecione o arquivo ISO do sistema operacional que deseja. Neste exemplo o Windows 10;
+- Em seguida clique no "botão Iniciar";
+
+A maquina virtual será iniciada e também a instalação do sistema operacional selecionado;
+
+Será exibida a janela "Instalação do Windows", nela:
+
+- Informe o "Idioma a instalar";
+- Informe o "Formato de hora e moeda";
+- Informe o "Teclado ou método de entrada";
+- Clique no "botão Avançar";
+
+Na janela seguinte clique no "botão Instalar agora";
+
+Será exibida a mensagem "A instalação está sendo iniciada";
+
+Na janela seguinte insira a chave de ativação do Windows, e em seguida clique no "botão Avançar";
+Caso não possua uma chave de ativação "não clique no botão Avançar", clique na "opção Não tenho a chave do produto". (A qualquer após a instalação do sistema operacional será possível inserir a chve de ativação do Windows);
+
+Na janela seguinte seleciona o sistema operacional que deseja instalar, dentre as opções:
+  - Windows 10 Home;
+  - Windows 10 Home Single Language;
+  - Windows 10 Education;
+  - Windows 10 Pro;
+  - Windows 10 Pro Education;
+  - Windows 10 Pro for Workstations;
+  
+- Em seguida clique no "botão Avançar";
+
+- Aceite os temos de licença e em seguida clique no "botão Avançar";
+
+Na janela seguinte, seleciona que tipo de instalação deseja realizar;
+  - Sugestão: Selecione a opção "Personalizada" tendo em vista que por ela você irá instalar uma nova cópia do Windows e poderá escolher como dimensionar (e/ou particionar) o "HD"; (Por exemplo uma parte para os "sistemas" e outra parte para "dados")
+
+- Em seguida clique no "botão Avançar" e será iniciada a instalação do Windows;
+
+Durante a instalação será exibida a janela "Configurar o Windows", nela:
+
+Os passo a seguir são intuitivos e podem variar a depender da versão do windows que está sendo selecionada;
+
+Por fim seu sistema operacional Windows 10 estará instalado!
+
+Veja mais detalhes sobre o windows 10 em:
+URL da página "Compare o Windows 1p Home e o Pro": https://www.microsoft.com/pt-br/windows/compare-windows-10-home-vs-pro
+URL da página "Como descobrir as especificações e os requisitos de um computador com Windows 10": https://www.microsoft.com/pt-br/windows/windows-10-specifications#primaryR2
+
+
+.............................................................................................................................................................................
+Após a instalação do Windows você deve ter percebido que a janela possui barra de rolagem e não está ocorrendo redimmensionamento de forma automática. Para solucionar essa e
+outras questões vá para o Tópico "Configuração Adicionais de Convidado da Maquina Virtual"
+.............................................................................................................................................................................
+
+
+
 ...
