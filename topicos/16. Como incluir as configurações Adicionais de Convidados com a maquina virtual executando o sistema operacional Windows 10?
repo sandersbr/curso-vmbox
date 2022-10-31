@@ -2,4 +2,17 @@
  16. COMO INCLUIR AS CONFIGURAÇÕES ADICIONAIS DE CONVIDADOS COM A MAQUINA VIRTUAL EXECUTANDO O SISTEMA OPERACIONAL WINDOWS 10?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------------------------------------
+Como incluir as configurações Adicionais de Convidados com a maquina virtual executando o sistema operacional Windows 10?
+
+Com o sistema operacional em execução em sua maquina virtual:
+- No menu superior clique na opção "Dispositivos" e em seguida na opção "Inserir imagem de CD dos Adicionais para Convidado"
+- Neste momento será emulada a inserção de um CD no drive de CD da sua maquina virtual;
+- Através do explorador de arquivos do windows de sua maquina virtual dê um duplo clique na unidade de CD, que deverá estar exibindo "Virtual Guest Additions"
+Será exibida a lista de arquivos e pastas do CD, então:
+- Selecione e execute o arquivo "VBoxWindowsAdditions.exe";
+- Será iniciada a instalação, juntamente com os drives necessários;
+- Siga clicando no "botão Next" até concluir;
+
+
 ...
