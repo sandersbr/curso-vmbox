@@ -7,9 +7,9 @@ Requisitos do sistema para instalar o Windows 10:
 
 Estes são os requisitos básicos para instalar o Windows 10 em um computador. Caso seu dispositivo não atenda a esses requisitos, talvez você não tenha uma experiência tão boa com o Windows 10 e possa querer considerar a compra de um novo computador.
 
-Processador:		        Processador de 1 gigahertz (GHz) ou mais rápido ou Sistema em um chip (SoC)
-RAM: 			              1 gigabyte (GB) para 32 bits ou 2 GB para 64 bits 
-Espaço em disco rígido:	16 GB para um sistema operacional de 32 bits ou 32 GB para um de 64 bits
+Processador:               Processador de 1 gigahertz (GHz) ou mais rápido ou Sistema em um chip (SoC)
+RAM:               1 gigabyte (GB) para 32 bits ou 2 GB para 64 bits 
+Espaço em disco rígido:     16 GB para um sistema operacional de 32 bits ou 32 GB para um de 64 bits
 Placa gráfica:		      DirectX 9 ou posterior com driver WDDM 1.0
 Tela:			              800 x 600
 Conexão com a Internet: Requer uma conexão com a Internet para executar atualizações e baixar e aproveitar alguns recursos. O Windows 10 Pro no modo S, o Windows 10 Pro Education no modo S, o Windows 10 Education no modo S e o Windows 10 Enterprise no modo S exigem uma conexão com a Internet durante a configuração inicial do dispositivo (OOBE), além de uma conta da Microsoft (MSA) ou conta do Azure Activity Directory (AAD). Alternar para um dispositivo do Windows 10 no modo S também requer conectividade com a Internet.
