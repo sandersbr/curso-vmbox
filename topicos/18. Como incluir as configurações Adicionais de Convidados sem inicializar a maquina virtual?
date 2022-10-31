@@ -2,4 +2,32 @@
  18. COMO INCLUIR AS CONFIGURAÇÕES ADICIONAIS DE CONVIDADOS SEM INICIALIZAR A MAQUINA VIRTUAL?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------
+Como incluir as configurações Adicionais de Convidados sem inicializar a maquina virtual?
+
+Com o programa Oracle Virtual Box aberto:
+Selecione a maquina virtual;
+Clique em Configurações;
+
+Será exibida a janela Configurações, nela:
+- Clique em Armazenamento;
+No "bloco Dispositivos de Armazenamento:
+- Clique na opção "Controladora IDE" para selecioná-la;
+- Clique na opção "Acrescenta Disco Óptico" que está localizado ao lado da Controladora: IDE;
+
+Será exibida a janela Seletor de Discos Ópticos, nela:
+
+OU
+- Clique no "botão Acrescentar";
+- Na janela exibida, vá até o arquivo ISO pelo camilnho C:\Program Files\Oracle\VirtualBox\VBoxGuestAdditions.iso
+OU 
+- Selecione o arquivo (VBoxGuestAdditions.iso) caso esteja disponível na grid da janela exibida;
+
+Em seguida clique no "botão Escolher" e na janela anterior será exibido a controladora que foi adicionada;
+
+Obvervação:
+Caso precise excluir após inclusão, selecione a opção que deseja exluir e em seguida clique no botão com x em vermelho(remove a controladora de armazenamento selecionada);
+
+
+
 ...
