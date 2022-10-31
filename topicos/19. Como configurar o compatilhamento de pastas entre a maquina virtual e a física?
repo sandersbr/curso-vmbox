@@ -2,4 +2,13 @@
  19. COMO CONFIGURAR O COMPARTILHAMENTO DE PASTAS ENTRE A MAQUINA VIRTUAL E A MAQUINA FÍSICA?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------
+Como configurar o compatilhamento de pastas entre a máquina virtual e a máquina física?
+
+Configuração de Pastas Compartilhadas: Aqui você determina qual pasta de seu computador físico estará compartilhada com a maquina virtual. Assim permitindo a transferencia de arquivos entre elas.
+- No menu superior clique na opção "Dispositivos" e em seguida na opção "Pastas Compartilhadas" e em seguida na opção "Configurações de Pastas Compartilhadas";
+- Será exibida uma janela de configuração da maquina virtual estando marcada a opção "Pastas Compartilhadas";
+- A direita da janela há um botão com o simbolo de uma imagem e o sinal de mais, ao clicar nela você poderá localizar e selecionar uma pasta em seu computador físico que será compartilhada com a maquina virtual.
+
+
 ...
