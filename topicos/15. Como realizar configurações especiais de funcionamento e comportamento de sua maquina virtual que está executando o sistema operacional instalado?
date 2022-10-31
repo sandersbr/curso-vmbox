@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 15. COMO REALIZAR CONFIGURAÇÕES ESPECIAIS DE FUNCIONAMENTO E COMPORTAMENTO DE SUA MAQUINA VIRTUAL QUE ESTÁ EXECUTANDO O SISTEMA OPERACIONAL INSTALADO?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Como realizar configurações especiais de funcionamento e comportamenteo de sua maquina vitual que está executando o sistema operacional instalado?
+
+Estas configurações solucionam algum problemas como por exemplo:
+- Mudar a configuração de video que está fixa gerando barras de rolagem para que ocorra o redimensionamento automático;
+- Isolar ou compartilhar arquivos através das áreas de transferência entre a maquina local física e a maquina virtual;
+
+Siga estas instruções para realizar configurações especiais de funcionamento e comportamenteo de sua maquina vitual: 
+
+
+...
