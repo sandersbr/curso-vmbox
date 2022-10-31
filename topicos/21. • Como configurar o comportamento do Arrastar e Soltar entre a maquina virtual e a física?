@@ -2,4 +2,16 @@
  21. COMO CONFIGURAR O COMPORTAMENTO DO ARRASTA E SOLTA ENTRE A MÁQUINA VIRTUAL E A MÁQUINA FÍSICA?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------------------------------------------------------------
+Como configurar o comportamento do Arrastar e Soltar entre a maquina virtual e a física?
+
+- No menu superior clique na opção "Dispositivos" e em seguida na opção "Arrastar e Soltar";
+- Serão exibidas as opções: Desabilitado, Hospedeiro para Convidado, Convidado para Hospedeiro, Bi-direcional;
+
+
+Observação: 
+As configurações somente estão em funcionamento após reiniciar a maquina virtual. 
+Pode ocorrer do redimensionamento automatico demorar um pouco para ocorrer após reinciada a maquina virtual.
+
+
 ...
