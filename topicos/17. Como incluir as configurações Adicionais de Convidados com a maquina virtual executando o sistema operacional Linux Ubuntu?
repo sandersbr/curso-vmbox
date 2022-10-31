@@ -2,4 +2,157 @@
  17. COMO INCLUIR AS CONFIGURAÇÕES ADICIONAIS DE CONVIDADOS COM A MAQUINA VIRTUAL EXECUTANDO O SISTEMA OPERACIONAL LINUX UBUNTU?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------------------
+Como incluir as configurações Adicionais de Convidados com a maquina virtual executando o sistema operacional Linux Ubuntu?
+
+Precisamos realizar a atualização dos repositórios do ubuntu, para isso:
+
+abra o terminal:
+- Clique em mostrar aplicativo;
+- Pesuise a palavra terminal;
+
+Será exibida a  terminal.
+
+Precisamos de privilégios de super usuário, para isso:
+- Digite o comando: sudo su
+- Aperte Enter;
+- O terminal irá aguardar a inserção da senha;
+- Digite a senha e aperta Enter;
+
+Agora somos root e conseguimos fazer operações de administrador, então:
+- Digite o comando: apt-get update
+- e aperte Enter;
+
+Com esse procedimento estamos atualizando as informações dos repositório do Ubuntu.
+Assim o sistema operacional saberá as versões mais recentes e a localização de todos os pacotes possamos precisar.
+
+Completando será exibinda a mensagem Reading packege lists... Done.
+
+Então: vamos fazer as instalação dos pré-requisitos para instalar os adicionais de convidados do virtual box (os drivers de placa de video e dos adicionais para o seu virtual box funcionar como um computador normal)
+
+E para isso nos precisamos do build essentials, então:
+
+- Digite o comando apt-get install build-essential
+- Aperte Enter;
+
+Serão instaladas várias bibliotecas e com isso ocorrerá a recompilação do kernel do ubuntu no virtual box...
+
+Será exibida uma pergunta se deseja continuar, então 
+- Digite y ou s (conforma a opção disponibilizada pelo idioma) e aperte Enter;
+
+Se iniciará o download dos pacotes (bibliotecas).
+
+Quando o processo for finalizado você pode fechar o terminal. Clicando no de fechar no canto da janela ou com os comandos a seguir:
+- Digite o comando exit e aperte Enter;
+- Digite o comando exit e aperte Enter, novamente.
+
+Na janela "software Updater" clique em Install Now.
+
+No menu da maquina virtual clique em "Dispositivos" e em seguida em "inserir imagem de cd dos adicionais para convidado".
+
+Será exibido um modal para confirmação se poderá executar um software automatico, então:
+- Clique em executar;
+- Irá perdir a senha;
+- Informa a senha e confirme, 
+
+Então ocorrerá á compilação.
+
+No termino será exibida a mesagem "the system is restarted Press Return to close this window", então
+- Aperte Enter;
+- A janela será fechada;
+
+Será necessário reiniciar o computador(maquina virtual).
+
+ + -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ | Nessa etapa ele pegou o kernel atual do linux e fez uma recompilação, então ele reconstruiu o kernel com os drivers do virutal box
+ + -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+Observação:
+Caso não abra o instalador automatico para você, precisa realizar a instalação por linha de comando.
+Caso não abra o instalador automatico para você, vai em arquivos(explorador de arquivos), 
+Localize a unidade optica com VBox_GAS_6.1.261.
+Localize o arquivo de nome "VBoxLinuxAdditions.run", clique com o botão direito, e em seguida em "propriedades", então selecione e copie o conteúdo do nome.
+Feche a janela de propriedades
+Clique com o botão direito em uma área limpa dentro da pasta e selecione e opção "Abrir no terminal"
+
+Com o terminal aberto, para poder entrar como super usuário, execute os comandos abaixo:
+- Digite o comando: sudo su
+- Aperte Enter;
+- Digite a senha e depois aperte Enter
+- Digite o comando: ./ 
+- Aperte botão direito do mouse e depois colar para ficar da seguinte forma ./VBoxLinuxAdditions.run
+- Aperte Enter
+
+ + -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ | Nessa etapa ele pegará o kernel atual do linux e fará a recompilação, então ele reconstruirá o kernel com os drivers do virutal box
+ + -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+ 
+Aguarde e então feche o terminal e reiniciar o computador(maquina virtual)
+
+Observação: 
+Após reiniciar a maquina virtual e ubuntu estiver pronto para seu uso, se o display não ocorrer o ajuste de forma automática será necessário verificar qual a resolução de tela está definida nas configurações do Ubuntu, então:
+- Clique no botão de aplicações  (Show Applications);
+- Pesquisa pela palavra configurações (Settings);
+- Clique em configurações (Settings);
+
+A janela configurações (Settings) será exibida, então:
+- Clique em Display, localizado no menu lateral esquerdo;
+
+Na tela será exibida a opção "Resolução" e qual padrão estão configurado, então
+- Altere para o padrão de resolução compatível com sua necessidade e feche a janela;
+- Se for necessário reinicie novamente o computador(maquina virtual)
+
+[opção 2 para o procedimento]
++++++++
+Neste tutorial você aprenderá:
+  Como instalar adições de hóspedes do Virtualbox.
+  Como verificar a instalação de adições de hóspedes do Virtualbox.
+  
+Requisitos e Convenções de Software Usadas
+
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Categoria	            | Requisitos, Convenções ou Versão de Software Utilizada                                                                       |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Sistema	              | Instalado Ubuntu 20.04 ou Ubuntu atualizado 20.04 Focal Fossa                                                                |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Software	            | N/A                                                                                                                          |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Outros__________	    | Acesso privilegiado ao seu sistema Linux como raiz ou através do comando.sudo                                                |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Convenções            |	# – requer que os comandos linux sejam executados com privilégios raiz diretamente como usuário raiz ou pelo uso de comando  |
+|                       | $ – requer que os comandos linux sejam executados como um usuário regular não privilegiado sudo                              |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------|
+
+
+Installing Virtualbox guest additions on Ubuntu 20.04 LTS Focal Fossa step by step instructions
+
+  passo 01
+  A maneira mais fácil de instalar adições de hóspedes do Virtualbox no Ubuntu 20.04 LTS Focal Fossa é instalar os seguintes pacotes do repositório padrão do Ubuntu:
+
+    $ sudo add-apt-repository multiverse
+    $ sudo apt install virtualbox-guest-dkms virtualbox-guest-x11
+
+  passo 02
+  Tudo pronto. Reinicie sua máquina virtual:
+  
+  $ sudo reboot
+
+  passo 03
+  Confirme as adições de hóspedes do Virtualbox:
+  
+  lsmod  | grep vbox
+  vboxsf                 81920  0
+  vboxguest             344064  6 vboxsf
+
+  Fonte: 
+  https://linuxconfig.org/virtualbox-install-guest-additions-on-ubuntu-20-04-lts-focal-fossa
+  https://linuxconfig.org/things-to-install-on-ubuntu-20-04
+  
+  🌟 https://www.youtube.com/watch?v=QHCvwut86fI
+  
+  https://getlabsdone.com/how-to-install-virtualbox-guest-additions-in-ubuntu-20-04/
+  
++++++++
+
+Aguarde e então feche o terminal e reiniciar o computador(maquina virtual)
 ...
