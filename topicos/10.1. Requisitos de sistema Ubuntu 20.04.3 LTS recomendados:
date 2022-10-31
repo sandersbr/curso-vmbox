@@ -2,4 +2,13 @@
  10.1. REQUISITOS DE SISTEMA UBUNTU 20.04.3 LTS RECOMENDADOS:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------
+Requisitos de sistema Ubuntu 20.04.3 LTS recomendados: 
+
+Processador:		               Processador dual core de 2 GHz ou melhor;
+RAM: 			                     4 GB de memória do sistema;
+Espaço em disco rígido:	     25 GB de espaço livre no disco rígido;
+Conexão com a Internet:      O acesso à Internet é útil;
+Periféricos:                 Uma unidade de DVD ou uma porta USB para a mídia de instalação;
+
 ...
