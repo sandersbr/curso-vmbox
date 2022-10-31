@@ -2,4 +2,15 @@
  04. REQUISITO PARA A INSTALAÇÃO E USO DA VMBOX
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------
+Requisito para a instalação e uso:
+
+- Não há configuração mínima para sua instalação;
+- Em seu computador é preciso estar habilitado o recurso Virtualização;
+- Baixar o instalador compatível com o sistema operacional de seu computador;
+- Baixar os sistemas operacionais que serão instalados em suas maquina virtuais;
+- Instalar o programa VMBox;
+- Criar sua maquina virtual;
+- Ligar sua maquina virtual e instalar seu sistema operacional;
+
 ...
