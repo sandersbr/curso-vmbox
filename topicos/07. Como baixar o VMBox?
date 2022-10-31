@@ -2,4 +2,36 @@
  07. COMO BAIXAR O VMBOX?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+--------------------
+Como baixar o VMBox?
+
+Siga as instruções a seguir para baixar o virtualbox:
+
+[Opção 1 para o download]
+- Acesse o site oficial do virtual box (https://www.virtualbox.org/);
+- Localize no menu a opção downloads;
+- Localize os pacotes de instalaçãodo virtual box (VirtualBox 0.0.00 platform packages) e clique na opção compativel com o sistema operacional de seu computador;
+  - Windows hosts         <--- pacote para windows
+  - OS X hosts            <--- pacote para mac
+  - Linux distributions   <--- pacote para linux
+  - Solaris hosts         <--- pacote para solaris
+  - Solaris 11 IPS hosts  <--- pacote para solaris
+- Ao clicar em uma das opções o download ocorrerá em seu computador e dependendo das confirgurações de seu navegador de internet ocorrerá de forma automática para a pasta downloads em seu computador.
+
+[Opção 2 para o download]
+- Acesse o site oficial do virtual box (https://www.oracle.com/br/virtualization/technologies/vm/downloads/virtualbox-downloads.html);
+- Localize a plataforma;
+  - Windows	
+  - Mac OS X	
+  - Solaris 10 5/08 and later or Solaris 11	
+  - Ubuntu 
+  - Debian 
+  - openSUSE 
+  - Fedora 
+  - Oracle Linux
+  - All distributions
+- Ao clicar em uma das opções o download ocorrerá em seu computador e dependendo das confirgurações de seu navegador de internet ocorrerá de forma automática para a pasta downloads em seu computador.
+ 
+O instalador do programa VMBox está baixado!
+
 ...
