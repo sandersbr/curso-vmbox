@@ -1,0 +1,69 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ SUMÁRIO
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TÓPICOS
+
+CONCEITOS
+• O que é VMBox?
+• O que é VirtualBox?
+• Para que serve uma VM?
+
+REQUISITOS
+• Requisito para a instalação e uso:
+• Como posso saber se a tecnologia de virtualização está habilitada no meu computador?
+• Como habilitar virtualização no BIOS (Basic Input/Output System)?
+
+OPERACIONALIZAÇÃO: DOWNLOAD, INSTALAÇÃO, CONFIGURAÇÕES ESPECIAIS
+• Como baixar o VMBox?
+• Como instalar o VMBox?
+• Como baixar sistemas alguns sistemas operacionais?
+• Como baixar o arquivo ISO do sistema operacional Linux, distribuição Ubuntu?
+  Requisitos de sistema Ubuntu 20.04.3 LTS recomendados: 
+• Como baixar o arquivo ISO do sistema operacional Windows 10?
+  Requisitos do sistema para instalar o Windows 10:
+• Como criar uma maquina virtual? (preparando-a para a instalação de um sistema operacional)
+• Como instalar o Windows 10 uma maquina virtual? 
+• Como instalar o Linux Ubuntu em uma maquina virtual?
+• Como realizar configurações especiais de funcionamento e comportamenteo de sua maquina vitual que está executando o sistema operacional instalado?
+• Como incluir as configurações Adicionais de Convidados com a maquina virtual executando o sistema operacional Windows 10?
+• >>>>>> Como incluir as configurações Adicionais de Convidados com a maquina virtual executando o sistema operacional Linux Ubuntu?
+• Como incluir as configurações Adicionais de Convidados sem inicializar a maquina virtual?
+• Como configurar o compatilhamento de pastas entre a maquina virtual e a física?
+• Como configurar o comportamento e compartilhamento da área de transferência entre a maquina virtual e a física?
+• Como configurar o comportamento do Arrastar e Soltar entre a maquina virtual e a física?
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ SUMÁRIO
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TÓPICOS
+
+CONCEITOS
+01. O que é VMBox?
+02. O que é VirtualBox?
+03. Para que serve uma VM?
+
+REQUISITOS
+04. Requisito para a instalação e uso da VMBox
+05. Como posso saber se a tecnologia de virtualização está habilitada no meu computador?
+06. Como habilitar virtualização no BIOS (Basic Input Output System)?
+
+OPERACIONALIZAÇÃO: DOWNLOAD, INSTALAÇÃO, CONFIGURAÇÕES ESPECIAIS
+07. Como baixar o VMBox?
+08. Como instalar o VMBox?
+09. Como baixar sistemas alguns sistemas operacionais?
+10. Como baixar o arquivo ISO do sistema operacional Linux, distribuição Ubuntu?
+10.1. Requisitos de sistema Ubuntu 20.04.3 LTS recomendados:
+11. Como baixar o arquivo ISO do sistema operacional Windows 10?
+11.1. Requisitos do sistema para instalar o Windows 10:
+12. Como criar uma maquina virtual? (preparando-a para a instalação de um sistema operacional)
+13. Como instalar o Windows 10 uma maquina virtual?
+14. Como instalar o Linux Ubuntu em uma maquina virtual?
+15. Como realizar configurações especiais de funcionamento e comportamento de sua maquina virtual que está executando o sistema operacional instalado?
+16. Como incluir as configurações Adicionais de Convidados com a maquina virtual executando o sistema operacional Windows 10?
+17. Como incluir as configurações Adicionais de Convidados com a maquina virtual executando o sistema operacional Linux Ubuntu?
+18. Como incluir as configurações Adicionais de Convidados sem inicializar a maquina virtual?
+19. Como configurar o compatilhamento de pastas entre a maquina virtual e a física?
+20. Como configurar o comportamento e compartilhamento da área de transferência entre a maquina virtual e a física?
+21. Como configurar o comportamento do Arrastar e Soltar entre a maquina virtual e a física?
