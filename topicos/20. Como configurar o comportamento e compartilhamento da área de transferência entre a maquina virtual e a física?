@@ -1,5 +1,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 20. COMO CONFIGURAR O COMPORTAMENTE E COMPARTILHAMENTO E DAÁREA DE TRANSFERÊNCIA ENTRE A MAQUINA VIRTUAL E A MAQUINA FÍSICA?
+ 20. COMO CONFIGURAR O COMPORTAMENTO E COMPARTILHAMENTO DA ÁREA DE TRANSFERÊNCIA ENTRE A MÁQUINA VIRTUAL E A MÁQUINA FÍSICA?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+Como configurar o comportamento e compartilhamento da área de transferência entre a máquina virtual e a máquina física?
+
+- No menu superior clique na opção "Dispositivos" e em seguida na opção "Área de Transferência Compartilhada";
+- Serão exibidas as opções: Desabilitado, Hospedeiro para Convidado, Convidado para Hospedeiro, Bi-direcional;
 
 ...
