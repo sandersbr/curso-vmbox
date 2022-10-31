@@ -2,4 +2,20 @@
  05. COMO POSSO SABER SE A TECNOLOGIA DE VIRTUALIZAÇÃO ESTÁ HABILITADA NO MEU COMPUTADOR?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------
+Como posso saber se a tecnologia de virtualização está habilitada no meu computador?
+
+Alguns sistemas têm a tecnologia de virtualização habilitado por padrão, se o sistema tiver essa tecnologia, use as etapas a seguir para confirmar se a tecnologia de virtualização está disponível em seu sistema:
+- Pressione Ctrl + Alt + Del;
+- Selecione Gerenciador de tarefas;
+- Clique na guia Desempenho;
+- Clique CPU;
+- O status será listado sob o gráfico e dirá "Virtualização: Habilitado" se esse recurso está ativado.
+
+O slide a seguir há uma imagem como exemplo.
+
+URL da image: https://theradioativo.com.br/wp-content/uploads/2019/08/gerenciador-tarefas-checar-virtualiza%C3%A7%C3%A3o.png
+
+Fonte: https://community.acer.com/pt/kb/articles/104-como-saber-se-a-tecnologia-de-virtualizacao-esta-habilitada-em-computadores-acer
+
 ...
